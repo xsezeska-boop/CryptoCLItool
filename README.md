@@ -1,4 +1,4 @@
-# Cripto CLI Tool
+# Crypto CLI Tool
 
 A lightweight, asynchronous command-line tool designed to fetch real-time cryptocurrency prices from the official **Bybit V5 API**.
 
